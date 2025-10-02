@@ -1,0 +1,70 @@
+# Flutter/Dart specific
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+/build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# iOS / Mac related
+ios/Flutter/.last_build_id
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Runner.xcworkspace/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+
+# Android related
+android/.gradle/
+android/app/build/
+android/local.properties
+android/.cxx/
+android/.externalNativeBuild/
+
+# VS Code
+.vscode/
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Miscellaneous
+pubspec.lock
+*.lock
+*.log
+*.tmp
+*.temp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# Build generated files & folders
+build/
+out/
+
+# Obfuscation / symbolication
+app.*.map.json
+app.*.symbols
+
+# Coverage
+coverage/
+.dart_tool/package_config.json
+
+# Other
+.metadata
+
+# Flutter plugins
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Misc IDE files
+*.orig
+
