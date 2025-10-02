@@ -52,6 +52,17 @@ lib/
 - 💻 Desktop (Windows, macOS, Linux)  
 
 ---
+---
+
+## 📝 Usage Guide
+
+1. Register as a new user or log in.
+2. Access the dashboard to browse doctors and book appointments.
+3. View, edit, or cancel your appointments.
+4. Manage your profile and app settings.
+
+---
+
 
 ## 🚀 Getting Started
 
